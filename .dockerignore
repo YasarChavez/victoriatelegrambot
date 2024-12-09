@@ -1,0 +1,30 @@
+# Version control
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Chat histories and config
+chats/
+config.json
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Docker
+Dockerfile
+.dockerignore
